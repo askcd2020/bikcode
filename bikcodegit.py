@@ -4,7 +4,7 @@ y = 2
 z = 3
 print("x + y =", x + y) # operator +
 print("x - y =", x - y) # operator -
-print("Something which breaks");
+print("My thing which breaks")
 print("x / z =", x / z) # operator / (result is float)
 print("x % y =", x % y) # operator % (modulo)
 print("x // y =", x // y) # operator // (integer division)
