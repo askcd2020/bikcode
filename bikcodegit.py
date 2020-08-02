@@ -1,3 +1,5 @@
+
+import matplotlib.pyplot as pl
 print("I am Python programmer.")
 x = 5
 y = 2
@@ -10,3 +12,5 @@ print("x % y =", x % y) # operator % (modulo)
 print("x // y =", x // y) # operator // (integer division)
 print("y * z =", y * z) # operator * (multiply)
 print("y ** z =", y ** z) # operator ** (exponent)
+pl.plot([x,y,z])
+pl.show()
